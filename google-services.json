@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033960824975",
+    "project_id": "waddah-r",
+    "storage_bucket": "waddah-r.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033960824975:android:a6df35bb3f91dc183210fa",
+        "android_client_info": {
+          "package_name": "com.nova.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbDgiYWpBu_t8cOxqspNT1JslARxtpM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033960824975:android:5b26378080c675513210fa",
+        "android_client_info": {
+          "package_name": "com.nova.social.WADDAH"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbDgiYWpBu_t8cOxqspNT1JslARxtpM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
